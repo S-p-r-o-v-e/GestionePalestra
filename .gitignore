@@ -1,0 +1,2 @@
+# Ignora le credenziali del database
+config/database.php
