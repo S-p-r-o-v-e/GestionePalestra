@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+# Ignora le credenziali del database
+>>>>>>> 05e8a00737ea4e9fa2999dc6756b3c51475d53bb
 config/database.php
